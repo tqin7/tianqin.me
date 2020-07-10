@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spockqin/tianqin.me/static/css/main.de06a343.chunk.css",
+    "main.js": "/spockqin/tianqin.me/static/js/main.afe282eb.chunk.js",
+    "main.js.map": "/spockqin/tianqin.me/static/js/main.afe282eb.chunk.js.map",
+    "runtime-main.js": "/spockqin/tianqin.me/static/js/runtime-main.d61fb418.js",
+    "runtime-main.js.map": "/spockqin/tianqin.me/static/js/runtime-main.d61fb418.js.map",
+    "static/js/2.c4928dcd.chunk.js": "/spockqin/tianqin.me/static/js/2.c4928dcd.chunk.js",
+    "static/js/2.c4928dcd.chunk.js.map": "/spockqin/tianqin.me/static/js/2.c4928dcd.chunk.js.map",
+    "index.html": "/spockqin/tianqin.me/index.html",
+    "precache-manifest.3d61a4b51729e9f358d8fca2d299952a.js": "/spockqin/tianqin.me/precache-manifest.3d61a4b51729e9f358d8fca2d299952a.js",
+    "service-worker.js": "/spockqin/tianqin.me/service-worker.js",
+    "static/css/main.de06a343.chunk.css.map": "/spockqin/tianqin.me/static/css/main.de06a343.chunk.css.map",
+    "static/js/2.c4928dcd.chunk.js.LICENSE.txt": "/spockqin/tianqin.me/static/js/2.c4928dcd.chunk.js.LICENSE.txt",
+    "static/media/portrait.jpg": "/spockqin/tianqin.me/static/media/portrait.a404a60d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d61fb418.js",
+    "static/js/2.c4928dcd.chunk.js",
+    "static/css/main.de06a343.chunk.css",
+    "static/js/main.afe282eb.chunk.js"
+  ]
+}
