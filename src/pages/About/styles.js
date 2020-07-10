@@ -5,8 +5,8 @@ export const IconsContainer = styled.div`
 `;
 
 export const Image = styled.img`
-  height: auto;
-  width: auto;
+  height: 77%;
+  width: 77%;
   max-width: 400px;
   max-height: 400px;
   margin-right: 1rem;
