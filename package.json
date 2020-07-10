@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Tian Qin",
-  "homepage": "https://spockqin.github.io/tianqin.me",
+  "homepage": "https://spockqin.github.io",
   "dependencies": {
     "@carbon/icons-react": "^10.13.0",
     "@carbon/themes": "^10.14.0",
