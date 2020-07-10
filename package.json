@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "author": "Tian Qin",
-  "homepage": "https://spockqin.github.io",
+  "homepage": "https://spockqin.github.io/tianqin.me",
   "dependencies": {
     "@carbon/icons-react": "^10.13.0",
     "@carbon/themes": "^10.14.0",
