@@ -16,8 +16,8 @@ I lead research and development efforts collaborating with industry groups. \
 One notable project was with Volvo to build an autonomous localization and navigation system \
 that functions without GPS signals.`;
 
-const sum_teaching = `I love teaching! Have taught discrete math, probability, blockchain \
-internet architecture at UC Berkeley and various on-campus organizations.`;
+const sum_teaching = `I love teaching! Have taught discrete math, probability, blockchain, \
+and internet architecture at UC Berkeley and various on-campus organizations.`;
 
 const sum_ifund = `Fascinated by how math and computer science tackle finance as in the case of Bitcoin, \
 I decided to venture into quantitative research realm. At iFund, I sought out patterns underlying \
@@ -46,6 +46,8 @@ const exps = [
     startYear: "01/2019",
     endYear: "06/2020",
     summary: sum_research,
+    link: "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-121.pdf",
+    linkText: "My thesis on consensus algorithms"
   },
   {
     position: "Industry Lead",
@@ -101,6 +103,15 @@ const Experiences = () => {
               </div>
               <br/>
               <Paragraph>{exp.summary}</Paragraph>
+              {exp.link &&
+                <>
+                  <br/>
+                  <a href={exp.link} target="_blank"
+                    style={{textDecorationLine: 'underline'}}>
+                    {exp.linkText}
+                  </a>
+                </>
+              }
             </WorkItem>
           ))}
         </ul>
