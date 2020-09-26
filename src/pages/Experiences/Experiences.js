@@ -41,13 +41,13 @@ const exps = [
     summary: sum_amazon,
   },
   {
-    position: "Consensus Algorithm Researcher",
+    position: "Blockchain Researcher",
     company: "University of California, Berkeley",
     startYear: "01/2019",
     endYear: "06/2020",
     summary: sum_research,
     link: "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-121.pdf",
-    linkText: "My thesis on consensus algorithms"
+    linkText: "My thesis on blockchain consensus algorithms"
   },
   {
     position: "Industry Lead",
